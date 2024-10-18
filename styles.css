@@ -1,0 +1,25 @@
+body{
+    background-color:burlywood;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h2,h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+#population{
+    text-align: start;
+}
+
+div{
+    width: 400px;
+    display: inline-block;
+    
+}
